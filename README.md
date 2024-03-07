@@ -1,21 +1,31 @@
 # minecraft-bot
-Hii....I_am_sam_Here
+Hello! This is my first project, so I'm pretty nervous. This is also my first open source project.
 
-this_afk_bot_only_works_in_versions_upto--1.16.4
-il_try_my_best_to_update_this_bot_for_LatestVersion_of_Minecraft
+## Rationale
+I built this bot for Minecraft, because I always had trouble being kicked out due to AFK. This bot will help me produce some movements which can help me from not being kicked out.
 
-i create it for aternos server but using it is up to you :)
+## Implementation
+This bot is built using JavaScript (a programming language I learnt specifically to build this bot) and mineflayer.
+The bot only works upto 1.16.4, I'll work on it in my free time to port it over for latest version.
 
-note:-
-change your ip as well as port_Number 
-if you have any issue watch my video again -_- or contact me 
+## Prerequisites 
+1. NodeJS
+2. Minecraft
 
-by 
-  -sam
-
-
-
-  #contact:sandeepsolai@gmail.com
+## Commands
+Step 1: Run `npm install` to install the dependencies.
+Step 2: Change the port number and IP address to the SERVER ADDRESS, otherwise it will not work.
+Step 3: Run `npm dev` to run the js file.
 
 
+# Sponsors
+None yet.
+
+
+
+## Thank you!
   
+To contact me:
+    - Discord [sandeepsolai](https://discord.com)
+    - Email [sandeepsolai@gmail.com](sandeepsolai@gmail.com)
+    - Youtube [sandeepsolai](https://youtube.com)
