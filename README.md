@@ -15,8 +15,7 @@ by
 
 
 
-  contact 
-       sandeepsolai@gmail.com
+  #contact:sandeepsolai@gmail.com
 
 
   
