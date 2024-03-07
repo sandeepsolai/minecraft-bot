@@ -14,7 +14,9 @@ The bot only works upto 1.16.4, I'll work on it in my free time to port it over 
 
 ## Commands
 Step 1: Run `npm install` to install the dependencies.
-Step 2: Run `npm run` to run the js file.
+Step 2: Change the port number and IP address to the SERVER ADDRESS, otherwise it will not work.
+Step 3: Run `npm dev` to run the js file.
+
 
 # Sponsors
 None yet.
@@ -23,3 +25,7 @@ If you like this project, please consider sponsoring me on [GitHub](https://gith
 
 ## Thank you!
   
+To contact me:
+    - Discord [sandeepsolai](https://discord.com)
+    - Email [sandeepsolai@gmail.com](sandeepsolai@gmail.com)
+    - Youtube [sandeepsolai](https://youtube.com)
