@@ -21,7 +21,7 @@ Step 3: Run `npm dev` to run the js file.
 # Sponsors
 None yet.
 
-If you like this project, please consider sponsoring me on [GitHub](https://github.com/sponsors/sandeepsolai) or [Buy me a coffee](https://buymeacoffee.com)
+
 
 ## Thank you!
   
