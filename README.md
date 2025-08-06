@@ -19,7 +19,7 @@ Step 3: Run `npm dev` to run the js file.
 
 
 # Sponsors
-None yet.
+None yet:(
 
 
 
